@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '32229'
     url: http://www.gutenberg.org/2009/agents/32229
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26771#Thespis--novelas-cortas-y-cuentos-
 gutenberg_issued: '2008-10-04'
 gutenberg_type: Text
 identifiers:
