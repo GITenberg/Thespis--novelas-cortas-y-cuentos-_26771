@@ -1,0 +1,34 @@
+_repo: Thespis--novelas-cortas-y-cuentos-_26771
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bunge, Carlos O. (Carlos Octavio)
+    aliases:
+    - Bunge, Carlos Octavio
+    - Bunge, C. O. (Carlos Octavio)
+    birthdate: 1875
+    deathdate: 1918
+    gutenberg_agent_id: '32229'
+    url: http://www.gutenberg.org/2009/agents/32229
+description: ''
+gutenberg_issued: '2008-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26771'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+tableOfContents: 'Prólogo -- Máscaras Trágicas: El último grande de españa. El chucro.
+  La madrina de Lita. La agonía de Cervantes. El justiciero. Pesadilla drolática (Impresiones
+  de veinticuatro horas de fiebre) -- Máscaras Cómicas: El más zonzo. Almas y rostros.
+  La tiranía del bridge. Monsieur Jaccotot. El canto del cisne. El capitán Pérez.'
+title: Thespis (novelas cortas y cuentos)
+url: http://www.gutenberg.org/ebooks/26771
